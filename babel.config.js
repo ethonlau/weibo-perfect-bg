@@ -1,5 +1,5 @@
 module.exports = {
-  indexPath: '../dist/index.html',
+  indexPath: '../index.html',
   baseUrl: process.env.NODE_ENV === 'production'
     ? '/weibo-perfect-bg/dist/'
     : '/'

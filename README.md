@@ -1,21 +1,6 @@
-# weibo-perfect-bg
+# 自动生成融为一体的微博背景图和封面图
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
+1. 上传图片素材（建议大于 1800×1500 px 的图片）
+2. 预览效果并裁切
+3. 分别得到「微博背景图.jpeg」「微博封面图.jpeg」两张图片
+4. 在微博个人主页上传即可
